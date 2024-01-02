@@ -32,5 +32,3 @@ As a committed fourth-year software engineering student, I bring together robust
 
 <h2 align="center">📊 Github Stats 📊</h2>
 
-![Khai Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayfine&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayfine&show_icons=true&theme=radical)
